@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "0.0.2",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "TerraCraft IX (Minecraft 1.20.1)",
       "description": "TerraCraft IX, ¿Buscas una Aventura? estás en el lugar correcto.",
       "icon": "https://powdersol.github.io/terracraftix.github.io/servers/TerraCraftIX-1.20.1/testico.jpg",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -428,13 +428,55 @@
           ]
         },
         {
-          "id": "de.markusbordihn.adaptiveperformancetweaks:adaptive_performance_tweaks:11.1.0@jar",
-          "name": "APTweaks (Bundle)",
+          "id": "de.markusbordihn.adaptiveperformancetweaksgamerules:adaptive_performance_tweaks_gamerules:11.1.0@jar",
+          "name": "APTweaks: Gamerules",
           "type": "ForgeMod",
           "artifact": {
-            "size": 51871,
-            "url": "https://powdersol.github.io/terracraftix.github.io/servers/TerraCraftIX-1.20.1/forgemods/required/adaptive_performance_tweaks_1.20.1-11.1.0.jar",
-            "MD5": "a117fc9b7c03d4dc9f84bb80b48402db"
+            "size": 64939,
+            "url": "https://powdersol.github.io/terracraftix.github.io/servers/TerraCraftIX-1.20.1/forgemods/optionalon/adaptive_performance_tweaks_gamerules_1.20.1-11.1.0.jar",
+            "MD5": "1b6381d49a460bfb5142c8aca6f68d88"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.markusbordihn.adaptiveperformancetweaksitems:adaptive_performance_tweaks_items:11.1.0@jar",
+          "name": "APTweaks: Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 71935,
+            "url": "https://powdersol.github.io/terracraftix.github.io/servers/TerraCraftIX-1.20.1/forgemods/optionalon/adaptive_performance_tweaks_items_1.20.1-11.1.0.jar",
+            "MD5": "c429eca8debc57bd43d918bc18ef2738"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.markusbordihn.adaptiveperformancetweaksplayer:adaptive_performance_tweaks_player:11.1.0@jar",
+          "name": "APTweaks: Player",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66272,
+            "url": "https://powdersol.github.io/terracraftix.github.io/servers/TerraCraftIX-1.20.1/forgemods/optionalon/adaptive_performance_tweaks_player_1.20.1-11.1.0.jar",
+            "MD5": "65f8b14e331f236bd5326532717c67e4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.markusbordihn.adaptiveperformancetweaksspawn:adaptive_performance_tweaks_spawn:11.1.0@jar",
+          "name": "APTweaks: Spawn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 143367,
+            "url": "https://powdersol.github.io/terracraftix.github.io/servers/TerraCraftIX-1.20.1/forgemods/optionalon/adaptive_performance_tweaks_spawn_1.20.1-11.1.0.jar",
+            "MD5": "ce995f082fe23cf732cd1a04c675e773"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -715,6 +757,16 @@
             "size": 815676,
             "url": "https://powdersol.github.io/terracraftix.github.io/servers/TerraCraftIX-1.20.1/forgemods/required/cookingforblockheads-forge-1.20.1-16.0.6.jar",
             "MD5": "30393a7bbd9bf85e11360db14cd13e27"
+          }
+        },
+        {
+          "id": "lain.mods.cos.init:cosmeticarmorreworked:1.20.1-v1a@jar",
+          "name": "CosmeticArmorReworked",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 88752,
+            "url": "https://powdersol.github.io/terracraftix.github.io/servers/TerraCraftIX-1.20.1/forgemods/required/cosmeticarmorreworked-1.20.1-v1a.jar",
+            "MD5": "2454075e9a25cbadc0fce66502e3261d"
           }
         },
         {
