@@ -12,7 +12,7 @@
       "name": "TerraCraft IX (Minecraft 1.20.1)",
       "description": "TerraCraft IX, ¿Buscas una Aventura? estás en el lugar correcto.",
       "icon": "https://powdersol.github.io/terracraftix.github.io/servers/TerraCraftIX-1.20.1/testico1.jpg",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
