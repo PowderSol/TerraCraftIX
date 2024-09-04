@@ -9,7 +9,7 @@
 	require_team_for_dungeons = true
 	dont_sync_ambient_mob_data = true
 	maps_dont_drop_in_maps = false
-	log_errors = true
+	log_errors = false
 	stop_error_spam = true
 	STATION_SUCK_NEARBY_CHESTS = false
 	#Range: > 0
